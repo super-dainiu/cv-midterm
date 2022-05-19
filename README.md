@@ -9,4 +9,4 @@ Task II:🎈 Object Detection with Faster R-CNN <[link](https://github.com/403fo
 
 
 
-Collaborators: 🤝 Boyuan Yao @Cypher30, Zixuan Chen @403forbiddennn, Yanjun Shao @super-dainiu
+Collaborators: 🤝 Boyuan Yao [@Cypher30](https://github.com/Cypher30), Zixuan Chen [@403forbiddennn](https://github.com/403forbiddennn), Yanjun Shao [@super-dainiu](https://github.com/super-dainiu)
